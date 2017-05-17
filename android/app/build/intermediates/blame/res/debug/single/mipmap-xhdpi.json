@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/wackc/tcvandroid/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/wackc/tcvandroid/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/wackc/tcvreact/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/wackc/tcvreact/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/hdogg/thurstonReact/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/hdogg/thurstonReact/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
